@@ -1,0 +1,12 @@
+{
+    "vendor": "Enbia Informatics",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "bgImage": "launchBGImage.png",
+    "id": "com.enbia.hassio",
+    "title": "Home Assistant",
+    "type": "web",
+    "version": "0.0.2",
+    "uiRevision":2
+}
